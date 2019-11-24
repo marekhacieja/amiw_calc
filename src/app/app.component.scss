@@ -1,0 +1,30 @@
+button,
+input {
+  border: 1px solid #000000;
+  background-color:rgba(255, 255, 255, 0);
+  font-size: 32px;
+}
+
+button {
+  width: 80px;
+  height: 80px;
+  margin: 7px 3px 3px 3px;
+}
+
+input {
+  width: 340px;
+  height: 50px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 90vh;
+}
+
+.equal-button {
+  width: 250px;
+  height: 80px;
+}
